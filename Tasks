@@ -1,0 +1,10 @@
+NOTE: Add comments (even javadoc comments) to make the code digestible to anyone.
+
+Biraj
+Make a Pieces superclass and the individual classes for each piece. 
+	Make the general constructor of each piece to be like Piece(Vector coordinates, boolean color)
+Add appropriate methods and fields to the aforementioned classes.
+
+
+Ngawang
+Work on the board class. 
