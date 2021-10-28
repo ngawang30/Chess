@@ -1,5 +1,11 @@
 package component;
 
-public class King {
+import java.util.Vector;
 
+public class King extends Pieces {
+
+	public King(Vector newCoordinates, boolean newColor) {
+		super(newCoordinates, newColor);	
+	}
+	
 }
